@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "932d",
+      "Fname": "Timothy",
+      "email": "tim@gmail.com",
+      "password": "TLM12345",
+      "confirm-pass": "TLM12345"
+    },
+    {
+      "id": "7568",
+      "Fname": "nik",
+      "email": "nik@gmail.com",
+      "password": "nik12345",
+      "confirm-pass": "nik12345"
+    }
+  ]
+}
